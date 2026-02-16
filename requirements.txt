@@ -1,0 +1,6 @@
+nltk
+torch
+torchvision
+pillow
+streamlit
+pytest
