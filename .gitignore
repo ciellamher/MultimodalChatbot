@@ -1,1 +1,6 @@
 6INTELSY MIDTERM EXAM AY 2025-2026.pdf
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+nltk_data/
